@@ -11,6 +11,7 @@ function findMax(input){
             max = input[i];
         }
     }
+    return max;
 }
 
 var numbers = [-1,-5,-17,-9];
